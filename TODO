@@ -1,0 +1,3 @@
+1: try to ssh to a server that is on our network which goes under a certain interface
+2: If that fails, then we should restart said interface
+3: Retrial.. if that fails again, sets a cooldown of that script for X hours.
